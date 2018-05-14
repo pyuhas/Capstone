@@ -1,0 +1,83 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Your New Friend</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="styles.css"> -->
+  <!-- <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Comfortaa" /> -->
+<!-- </head>
+
+<body>
+  <header>
+  <nav>
+    <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <h1 class="display-4">SillyDogs</h1>
+          <p class="text-secondary">Your source for all the cute, quirky doggos.</p>
+        </div>
+      </div>
+    </nav>
+  </nav>
+</header> -->
+
+  <!-- <main>
+    <div class="card-group">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2016/09/image3-7-600x314.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Tuna</h5>
+            <p class="card-text">Tuna is a Chihuahua Dachshund crossbreed dog, best known as an internet celebrity, and an internet meme. He was abandoned by his original owner near San Diego, and was adopted at a farmer's market in Los Angeles by Courtney Dasher.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="https://ewedit.files.wordpress.com/2016/05/the-mountain.jpg?w=612" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Asterix-Astur</h5>
+            <p class="card-text">The professional strongman and actor, Hafþór Júlíus Björnsson, has a tiny, fluffy Pomeranian and they work out together. </p>
+          </div>
+        </div>
+
+
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="https://i.pinimg.com/736x/82/ec/da/82ecdacbb745e65267e0da905f819651.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Pearl</h5>
+            <p class="card-text">Pearl is a Pit Bull/Catahoula mix who was born blind and deaf (she actually has anophthalmia, a rare condition that means she has no eyes. Pearl is just a normal, happy puppy who doesn’t let anything stop her.</p>
+          </div>
+        </div>
+
+      <!-- Force next columns to break to new line -->
+      <!-- <div class="w-100"></div> --> -->
+
+      <!-- <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://www.mypetsies.com/media/catalog/category/thumb/Marnie-1000x1000_1-915.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Marnie</h5>
+          <p class="card-text">Marnie is the cutest dog Marnie is a 16-year-old female Shih Tzu senior rescue dog adopted and owned by Shirley Braha.</p>
+        </div>
+      </div>
+
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://s-media-cache-ak0.pinimg.com/736x/c9/69/d8/c969d815546449011bf25d80d0f242a6.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Gizmo</h5>
+        <p class="card-text">Gizmo, the Griffon pup, takes resting b-tch face to a whole new level. </p>
+      </div>
+    </div>
+
+    </main>
+
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="app.js"></script>
+
+</body>
+
+</html> --> -->
